@@ -41,9 +41,9 @@ module.exports = function (grunt) {
                 currentWord = parts[0];
                 cur = 0;
             }
-            if (!currentWord) currentWord = parts[0]
+            if (!currentWord) currentWord = parts[0];
             //readme += '![' + dir[i] + '](www/' + dir[i] + ')\n';
-            readme += dir[i] + ' ![' + dir[i] + '](www/' + dir[i] + ')\n';
+            readme += '![' + dir[i] + '](www/' + dir[i] + ') - ' + dir[i] + '\n';
 
             htmlLineImg  += '<td style="text-align: center"><img src="' + dir[i] + '" width="64" height="64"></td>\n';
             htmlLineName += '<td style="text-align: center">' + dir[i] + '</td>\n';
