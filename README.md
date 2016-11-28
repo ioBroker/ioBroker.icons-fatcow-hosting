@@ -4,7 +4,7 @@ ioBroker.icons-fatcow-hosting
 
 ![preview1](img/preview1.png)
 
-Icon set for ioBroker.vis and ioBroker.mobile from FatCow hosting.
+Icon set with 3926 icons for ioBroker.vis and ioBroker.mobile from FatCow hosting.
 http://sourceforge.net/projects/openiconlibrary/
 
 This icon set was provided by FatCow hosting. More information you can find [here](http://www.fatcow.com/free-icons).
