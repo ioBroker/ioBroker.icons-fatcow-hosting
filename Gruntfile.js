@@ -35,7 +35,7 @@ module.exports = function (grunt) {
                 htmlLineName = '<tr>';
                 if (currentWord && currentWord != parts[0]) {
                     html += '<tr style="height: 15px; background: lightblue"><td colspan="' + inLine + '" style="height: 15px"></td></tr>';
-                    readme += '===========================\n';
+                    readme += '===========================\n\n';
                 }
 
                 currentWord = parts[0];
