@@ -2,7 +2,7 @@
 ioBroker.icons-fatcow-hosting
 =================
 
-![preview1](img/preview1.jpg)
+![preview1](img/preview1.png)
 
 Icon set for ioBroker.vis and ioBroker.mobile from FatCow hosting.
 http://sourceforge.net/projects/openiconlibrary/
