@@ -17,9 +17,6 @@ You can check all icons [here](ICONLIST.md).
 - install "icons-fatcow-hosting" icon set (as adapter) and navigate in ioBroker.vis in image selector dialog to "/icons-fatcow-hosting/".
 
 ## Changelog
-### 0.1.3 (2016-11-28)
-
-
 ### 0.1.0 (2016-11-28)
 * (bluefox) initial commit
 
