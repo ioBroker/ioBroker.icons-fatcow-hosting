@@ -12,27 +12,28 @@
     "url": "https://github.com/ioBroker/ioBroker.icons-fatcow-hosting"
   },
   "licenses": [
-      {
-          "type": "CC-BY",
-          "url": "https://github.com/ioBroker/ioBroker.icons-fatcow-hosting/blob/master/LICENSE"
-      }
+    {
+      "type": "CC-BY",
+      "url": "https://github.com/ioBroker/ioBroker.icons-fatcow-hosting/blob/master/LICENSE"
+    }
   ],
   "keywords": [
     "ioBroker",
     "icons",
-	"home automation"
+    "home automation"
   ],
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "grunt": "^0.4.5"
+    "grunt": "^0.4.5",
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1"
   },
   "bugs": {
     "url": "https://github.com/ioBroker/ioBroker.icons-fatcow-hosting/issues"
   },
   "main": "Gruntfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node node_modules/mocha/bin/mocha"
   },
   "license": "MIT"
 }
