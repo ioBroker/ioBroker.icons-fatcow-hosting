@@ -14,7 +14,7 @@ http://www.fatcow.com/free-icons
 You can check all icons [here](ICONLIST.md).
 
 ### How to use
-- install "icons-fatcow-hosting" icon set (as adapter) and navigate in ioBroker.vis in image selector dialog to "/icons-fatcow-hosting/".
+![Number of Installations](http://iobroker.live/badges/icons-fatcow-hosting-installed.svg) ![Number of Installations](http://iobroker.live/badges/icons-fatcow-hosting-stable.svg) - install "icons-fatcow-hosting" icon set (as adapter) and navigate in ioBroker.vis in image selector dialog to "/icons-fatcow-hosting/".
 
 ## Changelog
 ### 0.1.0 (2016-11-28)
