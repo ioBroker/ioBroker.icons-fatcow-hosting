@@ -16,8 +16,7 @@
         "mode": "none",
         "keywords": [
             "icons",
-            "material design",
-            "ioBroker"
+            "material design"
         ],
         "extIcon": "https://raw.githubusercontent.com/ioBroker/ioBroker.icons-fatcow-hosting/master/admin/icons-fatcow-hosting.png",
         "readme": "https://github.com/ioBroker/ioBroker.icons-fatcow-hosting/blob/master/README.md",
