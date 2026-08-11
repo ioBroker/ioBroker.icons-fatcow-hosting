@@ -1,41 +1,45 @@
 {
-    "common": {
-        "name": "icons-fatcow-hosting",
-        "version": "0.1.0",
-        "title": "Open icon library set from FatCow Hosting",
-        "desc": {
-            "en": "Open icon library set for visualisation from FatCow Hosting",
-            "de": "Open icon library Bildersatz für die Visualisierung von FatCow Hosting",
-            "ru": "Набор иконок для из open icon library визуализации от FatCow Hosting"
-        },
-        "authors": [
-            "bluefox <dogafox@gmail.com>"
-        ],
-        "platform": "javascript/Node.js",
-        "icon": "icons-fatcow-hosting.png",
-        "mode": "none",
-        "keywords": [
-            "icons",
-            "material design",
-            "ioBroker"
-        ],
-        "extIcon": "https://raw.githubusercontent.com/ioBroker/ioBroker.icons-fatcow-hosting/master/admin/icons-fatcow-hosting.png",
-        "readme": "https://github.com/ioBroker/ioBroker.icons-fatcow-hosting/blob/master/README.md",
-        "loglevel": "info",
-        "dependencies": [
-            "web"
-        ],
-        "enabled": true,
-        "onlyWWW": true,
-        "singleton": true,
-        "localLink": "%web_protocol%://%ip%:%web_port%/icons-fatcow-hosting/index.html",
-        "type": "visualization-icons",
-        "noConfig": true,
-        "licenseInformation": {
-            "type": "free",
-            "license": "CC-BY"
-        }
+  "common": {
+    "name": "icons-fatcow-hosting",
+    "version": "0.1.0",
+    "title": "Open icon library set from FatCow Hosting",
+    "desc": {
+      "en": "Open icon library set for visualisation from FatCow Hosting",
+      "de": "Open icon library Bildersatz für die Visualisierung von FatCow Hosting",
+      "ru": "Набор иконок для из open icon library визуализации от FatCow Hosting"
     },
-    "native": {},
-    "objects": []
+    "authors": [
+      "bluefox <dogafox@gmail.com>"
+    ],
+    "licenseInformation": {
+      "type": "free",
+      "license": "CC-BY"
+    },
+    "platform": "javascript/Node.js",
+    "icon": "icons-fatcow-hosting.png",
+    "mode": "none",
+    "keywords": [
+      "icons",
+      "material design",
+      "ioBroker"
+    ],
+    "tier": 3,
+    "extIcon": "https://raw.githubusercontent.com/ioBroker/ioBroker.icons-fatcow-hosting/master/admin/icons-fatcow-hosting.png",
+    "readme": "https://github.com/ioBroker/ioBroker.icons-fatcow-hosting/blob/master/README.md",
+    "loglevel": "info",
+    "dependencies": [
+      "web"
+    ],
+    "enabled": true,
+    "onlyWWW": true,
+    "singleton": true,
+    "localLink": "%web_protocol%://%ip%:%web_port%/icons-fatcow-hosting/index.html",
+    "type": "visualization-icons",
+    "license": "CC-BY",
+    "adminUI": {
+      "config": "none"
+    }
+  },
+  "native": {},
+  "objects": []
 }
