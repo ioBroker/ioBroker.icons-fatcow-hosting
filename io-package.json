@@ -19,6 +19,7 @@
       "material design",
       "ioBroker"
     ],
+    "tier": 3,
     "extIcon": "https://raw.githubusercontent.com/ioBroker/ioBroker.icons-fatcow-hosting/master/admin/icons-fatcow-hosting.png",
     "readme": "https://github.com/ioBroker/ioBroker.icons-fatcow-hosting/blob/master/README.md",
     "loglevel": "info",
