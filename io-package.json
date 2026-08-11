@@ -11,6 +11,10 @@
     "authors": [
       "bluefox <dogafox@gmail.com>"
     ],
+    "licenseInformation": {
+      "type": "free",
+      "license": "CC-BY"
+    },
     "platform": "javascript/Node.js",
     "icon": "icons-fatcow-hosting.png",
     "mode": "none",
