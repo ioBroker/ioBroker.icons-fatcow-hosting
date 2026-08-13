@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "grunt": "^1.6.3",
-    "mocha": "^4.1.0",
+    "mocha": "^11.8.0",
     "chai": "^4.1.2"
   },
   "bugs": {
