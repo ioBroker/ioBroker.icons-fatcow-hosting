@@ -28,7 +28,7 @@
   "devDependencies": {
     "grunt": "^1.6.3",
     "mocha": "^4.1.0",
-    "chai": "^4.1.2"
+    "chai": "^6.2.2"
   },
   "bugs": {
     "url": "https://github.com/ioBroker/ioBroker.icons-fatcow-hosting/issues"
